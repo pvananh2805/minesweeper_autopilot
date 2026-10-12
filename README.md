@@ -20,3 +20,6 @@ Python 3.10 or newer and Windows 10/11. Install dependencies using `pip install 
 ## Disclaimer
 
 This project is an experimental prototype and has not been verified across every screen resolution, browser zoom level, or game interface variation. Always inspect the preview scan before starting automation. Minesweeper guesses can still be incorrect, and winning is not guaranteed. Use automation only where permitted.
+## Demo
+
+[▶ Watch the AutoPilot demo](https://github.com/pvananh2805/minesweeper_autopilot/issues/1)
